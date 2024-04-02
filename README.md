@@ -1,4 +1,4 @@
-cd# Demo
+# Demo
 This is a demo file
 
 # Teacher
